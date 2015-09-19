@@ -1,2 +1,6 @@
 # learn_command_line_exercises
-To wax on and wax off with proficiency. 
+my instructor wants me to read 
+through learn the command line.
+ 
+This repo is my homework for this book.
+
