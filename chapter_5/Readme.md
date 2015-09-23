@@ -21,5 +21,20 @@
 
 ###English Questions
 
--Can you cd into the temp directory?
+- Can you cd into the temp directory?
+    Yes, you can.
+
+- Why don't we go into the temp directory?
+¶    `ok`
+
+- Can you go to the slash temp directory?
+    No, it is a part of the root
+
+- Can you go to the slash temp slash log directory?
+    No, it is also root
+- What does the .. argument to cd do?  Explain it in the Readme.md.
+
+    The `..` argument to `cd` pushes you back up the file tree by one directory. `cd ../../` allows you to go back multiple directories.
+
+    `
 
