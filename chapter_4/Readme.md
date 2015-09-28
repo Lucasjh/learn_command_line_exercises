@@ -1,7 +1,9 @@
-Can you make a temp directory? 
+- Can you make a temp directory? 
 
-Yes. Use 'mkdir tmp'
+Yes. Use `mkdir temp`
 
-Can you make a log directory in your class directory? 
+- Can you make a log directory in your class directory? 
 
-Yes. Done.
+`mkdir ../../../log_chap4/`
+
+
