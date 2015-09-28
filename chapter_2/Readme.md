@@ -9,14 +9,14 @@ Chapter 2: pwd
 
 2) Are you in the class directory? 
 
-Yes
+I would run `pwd` and it would show that i'm in the /chapter_2 directory.
 
 - pwd: print working directory
 
 
 3) Are you in you home directory? 
 
-Yes
+No. I'm in a subdirectory of the class directory.
 
 - pwd: print working directory
 
