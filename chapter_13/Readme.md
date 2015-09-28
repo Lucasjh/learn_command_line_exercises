@@ -11,7 +11,3 @@ Returns: asdfa;lskdfjq4350-8rg097aehga;dlskfjaf
 `cat Gemfile.md`
 
 Returns: awpo4tuvqn03598tq30948rqyhp34nfcwlDFJK
-
-
-
-
