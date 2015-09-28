@@ -8,7 +8,7 @@
 
 - Find out how to cd to your "home directory" with one command.
 
-   `cd ~`
+   `cd ~` or `cd`
 
 - cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
@@ -30,11 +30,11 @@
 
 - Can you cd into the temp directory?
 
-    Yes, you can.
+    `cd temp'
 
 - Why don't we go into the temp directory?
 
-    `ok`
+    Done
 
 - Can you go to the slash temp directory?
 
@@ -47,6 +47,4 @@
 - What does the .. argument to cd do?  Explain it in the Readme.md.
 
     The `..` argument to `cd` pushes you back up the file tree by one directory. `cd ../../` allows you to go back multiple directories.
-
-    `
 
