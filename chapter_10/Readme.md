@@ -9,10 +9,11 @@ I made another directory 1/2/3/Helloworld.md and then ran `cp -r 1 one` and it c
 
 - Copy a file to your home directory or desktop.
 
-How do i `cp` back to the home directory or desktop?
+While the /temp directory, i ran `cp neat.txt ../` and it copy's neat.txt into the directory above. Do ../ this the appropiate number of times to `cp` the file into the home directory.
 
 - Find these files in your graphical user interface and open them in a text editor.
 
-I need to figure out the previous task first
+Done.
+
 
 
