@@ -16,7 +16,7 @@
 
 - cd to your Downloads directory, then find it with your file browser.
 
-   `cd ../` then `cd Downloads`
+   `cd` then `cd Downloads`
 
 - Find another directory with your file browser, then cd to it.
 
