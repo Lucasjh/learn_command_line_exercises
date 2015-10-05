@@ -12,3 +12,5 @@ I would run `grep "Lucas Henderson" *.txt` and it will return:
 
     bar.txt:Lucas Henderson
     foo.txt:Lucas Henderson
+
+The -i option will make grep ignore case. grep "LUCAS" will look for "lucas" as well.
