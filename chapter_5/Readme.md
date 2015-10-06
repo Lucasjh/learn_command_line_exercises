@@ -30,7 +30,7 @@
 
 - Can you cd into the temp directory?
 
-    `cd temp'
+    I would run `cd tmp' to go into the tmp directory
 
 - Why don't we go into the temp directory?
 
@@ -38,11 +38,11 @@
 
 - Can you go to the slash temp directory?
 
-    No, it is a part of the root
+    Yes... First time i've ever seen this place... `cd /tmp`
 
 - Can you go to the slash temp slash log directory?
 
-    No, it is also root
+    Tried it from the same place... "Ni such file or directory"  Part of the root maybe?  
 
 - What does the .. argument to cd do?  Explain it in the Readme.md.
 
