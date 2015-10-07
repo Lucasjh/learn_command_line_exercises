@@ -8,9 +8,11 @@ What's in the tmp directory?
 
 Can you show me what files are in that directory?
 
-- Yes, with `ls`
+- Yes, by `ls tmp/`
 
 What files are in my home directory?
+
+I would run `ls ~` and it would show me the following:
 
 - pplications      Downloads         MediaFire         Public            workspace
   BitTorrent Sync   Dropbox           Movies            RubymineProjects
