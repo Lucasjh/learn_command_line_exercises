@@ -22,8 +22,9 @@ Home directory is set to /Users/Apple
 
 4) Can you set your environment to have DEBUG set to true?
 
-Need help on this... ask in meeting tonite
+I would run `export DEBUG="true"` and it would set the DEBUG variable to true in my environment.
 
+ 
  - How to change my PATH on your computer:
 
 I would open my bash profile with `~/.bash_profile` in text edit.
